@@ -54,7 +54,7 @@
 ---
 
 ## 📌 앞으로 추가할 내용
-- [ ] Level 2, Level 3 문제 풀이 확장  
+- [ ] Programmers Level 2, Level 3 문제 풀이 확장
 - [ ] 다른 플랫폼(LeetCode, Baekjoon) 문제 풀이 추가  
 - [ ] 알고리즘 유형별 정리 (DFS/BFS, DP, 이분 탐색 등)  
 
