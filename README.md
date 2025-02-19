@@ -7,23 +7,21 @@
 ---
 
 ## 📂 폴더 구조
-📂 coding-test-prep/
-├── 📂 programmers/      # 프로그래머스 문제 풀이
-│   ├── 📂 level1/      # 프로그래머스 Level 1 문제
-│   ├── 📂 level2/      # 프로그래머스 Level 2 문제
-│   ├── 📂 level3/      # 프로그래머스 Level 3 문제
-│
-├── 📂 baekjoon/        # 백준 문제 풀이 (추후 추가 예정)
-│   ├── 📂 silver/      # 백준 실버 문제
-│   ├── 📂 gold/        # 백준 골드 문제
-│   ├── 📂 platinum/    # 백준 플래티넘 문제
-│
-├── 📂 leetcode/        # LeetCode 문제 풀이 (추후 추가 예정)
-│   ├── 📂 easy/        # LeetCode Easy 문제
-│   ├── 📂 medium/      # LeetCode Medium 문제
-│   ├── 📂 hard/        # LeetCode Hard 문제
-│
-├── 📄 README.md        # 메인 설명 파일
+📂 **coding-test-prep**  
+├── 📁 **programmers/**   # 프로그래머스 문제 풀이  
+│   ├── 📁 **level1/**    # 프로그래머스 Level 1 문제  
+│   ├── 📁 **level2/**    # 프로그래머스 Level 2 문제  
+│   ├── 📁 **level3/**    # 프로그래머스 Level 3 문제  
+├── 📁 **baekjoon/**      # 백준 문제 풀이 (추후 추가 예정)  
+│   ├── 📁 **silver/**    # 백준 실버 문제  
+│   ├── 📁 **gold/**      # 백준 골드 문제  
+│   ├── 📁 **platinum/**  # 백준 플래티넘 문제  
+├── 📁 **leetcode/**      # LeetCode 문제 풀이 (추후 추가 예정)  
+│   ├── 📁 **easy/**      # LeetCode Easy 문제  
+│   ├── 📁 **medium/**    # LeetCode Medium 문제  
+│   ├── 📁 **hard/**      # LeetCode Hard 문제  
+├── 📄 **README.md**      # 메인 설명 파일  
+
 ---
 
 ## 🎯 목표
