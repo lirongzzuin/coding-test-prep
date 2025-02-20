@@ -7,7 +7,7 @@
 ---
 
 ```
-## 📂 폴더 구조
+ 📂 폴더 구조
 📂 **coding-test-prep**  
 ├── 📁 **programmers/**   # 프로그래머스 문제 풀이  
 │   ├── 📁 **level1/**    # 프로그래머스 Level 1 문제  
