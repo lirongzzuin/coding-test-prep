@@ -88,17 +88,3 @@ public class CustomSortString {
     }
 }
 ```
-
----
-
-## 폴더 위치
-
-이 문제는 **조건 기반 정렬 + Comparator 사용법 연습**에 적합한 문제로,  
-**프로그램어스 Level 2** 대표 정렬 문제 중 하나입니다.
-
-```
-폴더 구조: programmers/level2/custom_sort_string/
-├── CustomSortString.java
-├── README.md
-```
-
